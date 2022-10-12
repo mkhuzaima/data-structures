@@ -1,0 +1,2 @@
+# Stack
+Stack is a linear data structure which follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out). A good example of stack is any pile of objects where you take the object from the topmost position. The difference between stacks and queues is in removing. In a stack we remove the item the most recently added; in a queue, we remove the item the least recently added.

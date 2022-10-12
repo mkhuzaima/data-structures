@@ -1,0 +1,2 @@
+# Map (Dictionary)
+Map has key-value pair. Keys are unique. Each key has some associated values. They are very useful for storing various types of information, like data of employees where the key is their ID.

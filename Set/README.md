@@ -1,0 +1,2 @@
+# Set
+Sets are a data structure that allows you to store unique values. They are similar to otehr data structures, but they do not allow you to store duplicate values. Sets are useful for storing a list of unique values, such as a list of users on a website.
